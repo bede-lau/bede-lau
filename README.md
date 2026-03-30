@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Bede Lau 👋
 
-<!--
-**bede-lau/bede-lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a founder, full-stack engineer, and AI builder based in Malaysia. I build complex, data-heavy systems—from body-first virtual fitting platforms to multi-agent PR simulations. 
 
-Here are some ideas to get you started:
+I treat AI not just as a feature, but as a core architectural layer, designing LLM-agnostic orchestrators, agentic workflows, and cloud-hosted AI infrastructure. I also trade systematic algorithms and am heavily interested in modelling living systems and behavioral economics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+**AI, LLMs & Multi-Agent Systems** *(My current focus)*
+*   **Agentic Frameworks:** Custom LLM-agnostic orchestrators, OpenClaw, Multi-agent social simulations
+*   **Computer Vision & ML:** Vertex AI, FASHN VTON, SAM-3 (Segment Anything), 4D-Humans, OpenCV, PyTorch
+*   **Data & RAG:** Graph databases, pgvector, GraphRAG
+*   **Infra:** OpenRouter (failover proxying), Vast.ai (GPU orchestration), Hugging Face
+
+**Frontend & Mobile**
+*   **Mobile:** React Native, Expo
+*   **Web:** React, Next.js, Tailwind CSS
+*   **Visualization:** D3.js (for complex graph and simulation mapping)
+
+**Backend, Cloud & Infrastructure**
+*   **Backend:** Python, FastAPI, Node.js
+*   **Database & Auth:** Supabase, PostgreSQL
+*   **Cloud & Deployment:** AWS, Vercel, Vultr, ngrok
+*   **Task Queues:** Celery, Redis
+*   **Payments:** Stripe, Billplz, Wise API
+
+### 🌱 What I'm Exploring Deeply
+*   The intersection of **hardware constraints and AI** (e.g., edge-deployed computer vision for aquaculture biomass monitoring).
+
+### 📫 How to Reach Me
+
+*   **Email:** [bedelau59@gmail.com](mailto:bedelau59@gmail.com)
+*   **Operating System:** I run my life through highly structured Notion hubs. If I don't reply immediately, I'm probably deep in a build cycle.
+
+---
+*"Aim high, model the downside, and build the infrastructure."*
