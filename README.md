@@ -20,9 +20,8 @@ I treat AI not just as a feature, but as a core architectural layer, designing L
 **Backend, Cloud & Infrastructure**
 *   **Backend:** Python, FastAPI, Node.js
 *   **Database & Auth:** Supabase, PostgreSQL
-*   **Cloud & Deployment:** AWS, Vercel, Vultr, ngrok
+*   **Cloud & Deployment:** AWS, Vercel, ngrok
 *   **Task Queues:** Celery, Redis
-*   **Payments:** Stripe, Billplz, Wise API
 
 ### 🌱 What I'm Exploring Deeply
 *   The intersection of **hardware constraints and AI** (e.g., edge-deployed computer vision for aquaculture biomass monitoring).
