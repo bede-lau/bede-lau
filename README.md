@@ -1,5 +1,7 @@
 # Hi there, I'm Bede Lau 👋
 
+Check out my full portfolio: https://bede-lau.github.io/ 
+
 I'm a founder, full-stack engineer, and AI builder based in Malaysia. I build complex, data-heavy systems. From body-first virtual fitting platforms to multi-agent social simulations. 
 
 I treat AI not just as a feature, but as a core architectural layer, designing LLM-agnostic orchestrators, agentic workflows, and cloud-hosted AI infrastructure. I also trade systematic algorithms and am heavily interested in modelling living systems and behavioral economics.
