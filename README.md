@@ -13,7 +13,7 @@
 | [CareAxiom](https://github.com/bede-lau/CareAxiom) | Evidence-led healthcare planning | 🥉 Hack-Nation Global AI Hackathon, Databricks challenge |
 | [RockedIn](https://github.com/bede-lau/rockedin) | A professional network for rocks | 🥉 Qwen Brainrot Hackathon |
 | [Matter Lab](https://github.com/bede-lau/matter) | Interactive metamaterials and 3D learning | 🏆 Best Astra Build, Astra Commons KL |
-| [SitePilot](https://github.com/bede-lau/SitePilot) | Solar field operations and procurement | 🏆 KrackedDevs Vibe-a-thon 2026 |
+| [SitePilot](https://github.com/bede-lau/SitePilot) | Solar field operations and procurement | 🥇 1st place, KrackedDevs Vibe-a-thon 2026 |
 
 ---
 
